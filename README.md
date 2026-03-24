@@ -65,7 +65,7 @@ Logica de programação da turma SESI 2026
 
 ```
 
-![texto alternativo](<img width="220" height="188" alt="image" src="https://github.com/user-attachments/assets/c832e985-3742-4f1f-a75a-429c6652d1c1" />)
+![texto alternativo](https://media1.tenor.com/m/H4aGM2kR_JIAAAAd/jojo-spin.gif)
 
 
 
