@@ -1,7 +1,8 @@
 # SESI_LP ☄️
 Logica de programação da turma SESI 2026
 
-##comandos
+
+## comandos
 
 
 💻 **``git config --global user.name "nome"``**: *Nome do usuario*
