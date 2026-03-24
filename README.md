@@ -24,6 +24,9 @@ Logica de programação da turma SESI 2026
 💻 **``git pull``** *busca os arquivos do repositorio*
 
 
+https://preview.redd.it/i-was-rereading-steel-ball-run-forgot-how-perfect-this-v0-dnsiavk2zzjc1.jpeg?width=640&crop=smart&auto=webp&s=855bda7e66c8fe888ce2b288b74fce50da5cba58
+
+![texto alternativo](https://preview.redd.it/i-was-rereading-steel-ball-run-forgot-how-perfect-this-v0-dnsiavk2zzjc1.jpeg?width=640&crop=smart&auto=webp&s=855bda7e66c8fe888ce2b288b74fce50da5cba58)
 
 
 
