@@ -1,5 +1,5 @@
 # SESI_LP ☄️<img src="<img width="800" height="785" alt="image" src="https://github.com/user-attachments/assets/b2a30240-8d4f-42f5-afe0-98c7250487c9" />
-" width="50%">
+" width="10%">
 Logica de programação da turma SESI 2026
 
 
