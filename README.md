@@ -65,7 +65,7 @@ Logica de programação da turma SESI 2026
 
 ```
 
-![gif](https://media1.tenor.com/m/SIKIsvhBV9IAAAAC/gyro-zeppeli-steel-ball-run.gif
+![gif](https://media1.tenor.com/m/-NJkWlD4LSwAAAAC/gyro.giff
 )
 
 
