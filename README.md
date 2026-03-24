@@ -65,7 +65,6 @@ Logica de programação da turma SESI 2026
 
 ```
 
-![gif](<img width="498" height="282" alt="image" src="https://github.com/user-attachments/assets/c498d92e-c5cd-4c15-95e3-1ac31c251147" />
-)
+![gif](<img width="498" height="282" alt="image" src="https://github.com/user-attachments/assets/c498d92e-c5cd-4c15-95e3-1ac31c251147" />)
 
 
