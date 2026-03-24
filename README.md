@@ -65,6 +65,6 @@ Logica de programação da turma SESI 2026
 
 ```
 
-![gif](https://tenor.com/pt-BR/view/jojo-spin-gif-27614464)
+![gif](https://tenor.com/pt-BR/view/gyro-gif-23890394)
 
 
