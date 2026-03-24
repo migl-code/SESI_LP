@@ -65,7 +65,7 @@ Logica de programação da turma SESI 2026
 
 ```
 
-![texto alternativo](https://media1.tenor.com/m/H4aGM2kR_JIAAAAd/jojo-spin.gif)
+<div class="tenor-gif-embed" data-postid="27614464" data-share-method="host" data-aspect-ratio="1.17216" data-width="50%"><a href="https://tenor.com/view/jojo-spin-gif-27614464">Jojo Spin GIF</a>from <a href="https://tenor.com/search/jojo+spin-gifs">Jojo Spin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
