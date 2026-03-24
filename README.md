@@ -6,66 +6,66 @@ Logica de programação da turma SESI 2026
 
 *Nome do usuario*
 ```
-``
-💻 **``git config --global user.name "nome"``**
-``
+
+💻 git config --global user.name "nome"
+
 ```
  *email do usuario*
 ```
-``
-💻 **``git config --global user.email "gmail.com"``**:
-``
+
+💻 git config --global user.email "gmail.com"
+
 ```
 *lista de comandos* 
 
 ```
-``
-💻 ``git config --list`` 
-``
+
+💻 git config --list
+
 ```
 *clona o repositorio na pasta*
 
 ```
-``
-💻 **``git clone ~link~``** 
-``
+
+💻 git clone ~link~
+
 ```
 *lista os status do repositorio*
 ```
-``
-💻 **``git status``** 
 
-``
+💻 git status
+
+
 ```
 
 *prepara o arquivo para enviar*
 
 
 ```
-``
-💻 **``git add arquivo.txt``** 
-``
+
+💻 git add arquivo.txt
+
 ```
 *assina os arquivos
 ```
-``
-💻 **``git commit -m  "descrição"``** 
-``
+
+💻 git commit -m  "descrição"
+
 ```
 *envia para o repositorio*
 ```
-``
-💻 **``git push``**
-``
+
+💻git push
+
 ```
 *busca os arquivos do repositorio*
 ```
-``
-💻 **``git pull``**
-``
+
+💻 git pull
+
 ```
 
-![texto alternativo](https://preview.redd.it/i-was-rereading-steel-ball-run-forgot-how-perfect-this-v0-dnsiavk2zzjc1.jpeg?width=640&crop=smart&auto=webp&s=855bda7e66c8fe888ce2b288b74fce50da5cba58)
+![texto alternativo](https://media1.tenor.com/m/eH0x5CPdL10AAAAC/jojo%27s-jojos-meme.gif)
 
 
 
